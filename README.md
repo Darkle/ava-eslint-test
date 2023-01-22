@@ -1,0 +1,1 @@
+# ava-eslint-test
